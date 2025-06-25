@@ -1,2 +1,2 @@
 # webpage1
-here i have created a responsive landing page using html and css 
+A responsive Landing Page using HTML & CSS  
